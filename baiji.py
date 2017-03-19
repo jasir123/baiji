@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Spyder Editor
-
-This is a temporary script file.
-"""
 for x in range(1,20):
     for y in range(1,32):
         for z in range(1,93):
